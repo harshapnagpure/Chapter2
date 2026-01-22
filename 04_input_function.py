@@ -1,3 +1,10 @@
 a = input("Enter a number: ")
 a = int(a) #convert a to an integer(if possible)
 print(type(a))
+
+
+# a = int(input("Enter number1: "))
+# b = int(input("Enter number2: "))
+# print("Number a is: ", a)
+# print("Number b is: ", b)
+# print("Sum is: ", a+b)
